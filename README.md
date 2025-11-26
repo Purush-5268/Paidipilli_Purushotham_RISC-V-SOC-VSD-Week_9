@@ -1,11 +1,15 @@
+
 # 🖥️ VSDBabySoC: RISC-V SoC Design & Tapeout Journey
 
 **Author:** Paidipilli Purushotham
-**Program:** VSD RISC-V SoC Tapeout Program
-**Technology:** SkyWater 130nm (Sky130)
-**Current Status:** ✅ Phase 1 (RTL) & Phase 2 (SoC Integration) Complete
 
------
+**Program:** VSD RISC-V SoC Tapeout Program
+
+**Technology:** SkyWater 130nm (Sky130)
+
+**Current Status:** ✅ **Complete** (RTL to GDSII Flow Executed & Verified)
+
+---
 
 ## 📋 Table of Contents
 
