@@ -10,65 +10,57 @@
 **Current Status:** ✅ **Complete** (RTL to GDSII Flow Executed & Verified)
 
 ---
-
 ## 📋 Table of Contents
 
 **Executive Summary**
-
-  * [The Vision: VSDBabySoC Architecture](https://www.google.com/search?q=%23-the-vision-vsdbabysoc-architecture)
+* [The Vision: VSDBabySoC Architecture](#-the-vision-vsdbabysoc-architecture)
 
 **Part 1: The Foundation (Skill Building)**
-
-  * [Day 1: Simulation Flow & Tool Setup](https://www.google.com/search?q=%23-day-1-simulation-flow--tool-setup)
-  * [Day 2: Timing Libraries & Hierarchical Synthesis](https://www.google.com/search?q=%23-day-2-timing-libraries--hierarchical-synthesis)
-  * [Day 3: Optimization Techniques](https://www.google.com/search?q=%23-day-3-optimization-techniques)
-  * [Day 4: GLS & Synthesis Mismatches](https://www.google.com/search?q=%23-day-4-gls--synthesis-mismatches)
-  * [Day 5: Advanced Verilog Strategies](https://www.google.com/search?q=%23-day-5-advanced-verilog-strategies)
+* [Day 1: Simulation Flow & Tool Setup](#-day-1-simulation-flow--tool-setup)
+* [Day 2: Timing Libraries & Synthesis](#-day-2-timing-libraries--synthesis)
+* [Day 3: Optimization Techniques](#-day-3-optimization-techniques)
+* [Day 4: GLS & Synthesis Mismatches](#-day-4-gls--synthesis-mismatches)
+* [Day 5: Advanced Verilog Strategies](#-day-5-advanced-verilog-strategies)
 
 **Part 2: VSDBabySoC Implementation (The Project)**
-
-  * [Step 1: Architecture & Workspace Setup](https://www.google.com/search?q=%23-step-1-architecture--workspace-setup)
-  * [Step 2: TL-Verilog to Verilog Conversion](https://www.google.com/search?q=%23-step-2-tl-verilog-to-verilog-conversion)
-  * [Step 3: Pre-Synthesis Simulation](https://www.google.com/search?q=%23-step-3-pre-synthesis-simulation)
-  * [Step 4: SoC Synthesis with Analog IP](https://www.google.com/search?q=%23-step-4-soc-synthesis-with-analog-ip)
-  * [Step 5: Post-Synthesis Verification](https://www.google.com/search?q=%23-step-5-post-synthesis-verification)
+* [Step 1: Architecture & Workspace Setup](#-step-1-architecture--workspace-setup)
+* [Step 2: TL-Verilog to Verilog Conversion](#-step-2-tl-verilog-to-verilog-conversion)
+* [Step 3: Pre-Synthesis Simulation](#-step-3-pre-synthesis-simulation)
+* [Step 4: SoC Synthesis with Analog IP](#-step-4-soc-synthesis-with-analog-ip)
+* [Step 5: Post-Synthesis Verification](#-step-5-post-synthesis-verification)
 
 **Part 3: Post-Synthesis Verification & Timing Analysis**
-
-  * [Step 1: Synthesis (RTL to Netlist)](https://www.google.com/search?q=%23-phase-1-synthesis-rtl-to-netlist)
-  * [Step 2: Post-Synthesis Simulation (GLS)](https://www.google.com/search?q=%23-phase-2-post-synthesis-simulation-gls)
-  * [Step 3: Static Timing Analysis (STA) with OpenSTA](https://www.google.com/search?q=%23-performing-sta-on-vsdbabysoc)
-  * [Step 4: Visualizing Timing Results](https://www.google.com/search?q=%23-visualizing-timing-graphs)
+* [Step 1: Synthesis (RTL to Netlist)](#-step-1-synthesis-rtl-to-netlist)
+* [Step 2: Post-Synthesis Simulation (GLS)](#-step-2-post-synthesis-simulation-gls)
+* [Step 3: Static Timing Analysis (STA) with OpenSTA](#-step-3-static-timing-analysis-sta-with-opensta)
+* [Step 4: Visualizing Timing Results](#-step-4-visualizing-timing-results)
 
 **Part 4: Circuit Characterization & SPICE Simulations**
-
-  * [Day 1: nMOSFET I-V Characteristics](https://www.google.com/search?q=%23-day-1-nmosfet-i-v-characteristics)
-  * [Day 2: Velocity Saturation & Short-Channel Effects](https://www.google.com/search?q=%23-day-2-velocity-saturation--short-channel-effects)
-  * [Day 3: CMOS Switching Threshold](https://www.google.com/search?q=%23-day-3-cmos-switching-threshold-vm)
-  * [Day 4: Noise Margins & Robustness](https://www.google.com/search?q=%23-day-4-noise-margins--robustness)
-  * [Day 5: Power Supply & Process Variation](https://www.google.com/search?q=%23-day-5-power-supply--process-variation)
+* [Day 1: nMOSFET I-V Characteristics](#-day-1-nmosfet-i-v-characteristics)
+* [Day 2: Velocity Saturation & Short-Channel Effects](#-day-2-velocity-saturation--short-channel-effects)
+* [Day 3: CMOS Switching Threshold](#-day-3-cmos-switching-threshold-vm)
+* [Day 4: Noise Margins & Robustness](#-day-4-noise-margins--robustness)
+* [Day 5: Power Supply & Process Variation](#-day-5-power-supply--process-variation)
 
 **Part 5: Physical Design - OpenROAD Flow**
-
-  * [Step 1: Installation & Setup](https://www.google.com/search?q=%23-step-1-installation--setup)
-  * [Step 2: Running the Flow (RTL to Placement)](https://www.google.com/search?q=%23-step-2-running-the-flow-rtl-to-placement)
-  * [Step 3: Visualizing the Layout (GUI & KLayout)](https://www.google.com/search?q=%23-step-3-visualizing-the-layout)
+* [Step 1: Installation & Setup](#-step-1-installation--setup)
+* [Step 2: Running the Flow (RTL to Placement)](https://github.com/Purush-5268/Paidipilli_Purushotham_RISC-V-SOC-VSD-Week_5#-step-2-running-the-flow-rtl-to-placement)
+* [Step 3: Visualizing the Layout (GUI & KLayout)](https://github.com/Purush-5268/Paidipilli_Purushotham_RISC-V-SOC-VSD-Week_5#-step-3-visualizing-the-layout)
 
 **Part 6: Advanced Physical Design & Timing Closure**
-
-  * [Step 1: Floorplanning & Power Planning](https://www.google.com/search?q=%23-step-1-floorplanning--power-planning)
-  * [Step 2: Placement & Custom Cell Integration](https://www.google.com/search?q=%23-step-2-placement--custom-cell-integration)
-  * [Step 3: Timing Analysis & ECO (Pre-CTS)](https://www.google.com/search?q=%23-step-3-timing-analysis--eco-pre-cts)
-  * [Step 4: Clock Tree Synthesis (CTS)](https://www.google.com/search?q=%23-step-4-clock-tree-synthesis-cts)
+* [Step 1: Floorplanning & Power Planning](#-step-1-floorplanning--power-planning)
+* [Step 2: Placement & Custom Cell Integration](#-step-2-placement--custom-cell-integration)
+* [Step 3: Timing Analysis & ECO (Pre-CTS)](#-step-3-timing-analysis--eco-pre-cts)
+* [Step 4: Clock Tree Synthesis (CTS)](#-step-4-clock-tree-synthesis-cts)
 
 **Part 7: Final Physical Design & Tapeout Sign-off**
-
-  * [Step 1: Environment Setup & Design Config](https://www.google.com/search?q=%23-step-1-environment-setup--design-configuration)
-  * [Step 2: Synthesis & Floorplanning](https://www.google.com/search?q=%23-step-2-synthesis--floorplanning)
-  * [Step 3: Placement & Congestion Management](https://www.google.com/search?q=%23-step-3-placement--congestion-management)
-  * [Step 4: Clock Tree Synthesis (CTS)](https://www.google.com/search?q=%23-step-4-clock-tree-synthesis-cts)
-  * [Step 5: Pre-Route Checks](https://www.google.com/search?q=%23-step-5-pre-route-checks-critical)
-  * [Step 6: Final Routing & Extraction](https://www.google.com/search?q=%23-step-6-final-routing--extraction)
+* [Step 1: Environment Setup & Design Config](#-step-1-environment-setup--design-configuration)
+* [Step 2: Synthesis & Floorplanning](#-step-2-synthesis--floorplanning)
+* [Step 3: Placement & Congestion Management](#-step-3-placement--congestion-management)
+* [Step 4: Clock Tree Synthesis (CTS)](#-step-4-clock-tree-synthesis-cts-1)
+* [Step 5: Pre-Route Checks](#-step-5-pre-route-checks-critical)
+* [Step 6: Final Routing & Extraction](#-step-6-final-routing--extraction)
+  
 ## 1️⃣ 🎯 Executive Summary
 
 This repository documents the comprehensive journey of designing **VSDBabySoC**, a mixed-signal RISC-V System-on-Chip. The project leverages the **Open-Source ASIC Flow**, taking the design from Register Transfer Level (RTL) logic all the way to a layout ready for fabrication.
